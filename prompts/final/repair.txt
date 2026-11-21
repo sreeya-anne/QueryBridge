@@ -1,0 +1,7 @@
+Correct the rejected SQLite query for the question below. Use the supplied schema only.
+Return the same JSON format as before with status, sql and explanation. If ambiguous, ask for clarification.
+Schema:
+{schema}
+Question: {question}
+Rejected SQL: {sql}
+Validation error: {error}

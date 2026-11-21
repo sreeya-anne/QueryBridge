@@ -1,0 +1,5 @@
+Translate the question to one SQLite SELECT using only the tables, columns and relationships below.
+Never invent schema identifiers or generate writes. Return only SQL. If no safe query is possible, start your reply with REFUSAL: followed by a short reason.
+Schema:
+{schema}
+Question: {question}

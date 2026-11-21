@@ -1,0 +1,6 @@
+﻿Command: python evaluate.py --provider OpenAI
+Evaluation could not run: Set OPENAI_API_KEY to use OpenAI.
+Exit code: 1
+Command: python evaluate.py --provider Gemini
+Evaluation could not run: Set GOOGLE_API_KEY to use Gemini.
+Exit code: 1
